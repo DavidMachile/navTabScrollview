@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CCTVFive.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>FBA249F848DE04C3D37EFF0CEB61A9E7D48AC648</string>
+				<key>dateExpires</key>
+				<string>2018/9/5</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>FBA249F848DE04C3D37EFF0CEB61A9E7D48AC648</string>
+						<key>dateExpires</key>
+						<string>2018/9/5</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>JS_MediaCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>M237K3T8LX</string>
+						<key>name</key>
+						<string>China Central Television</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>FBA249F848DE04C3D37EFF0CEB61A9E7D48AC648</string>
+						<key>dateExpires</key>
+						<string>2018/9/5</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>JS_Streaming.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>M237K3T8LX</string>
+						<key>name</key>
+						<string>China Central Television</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>FBA249F848DE04C3D37EFF0CEB61A9E7D48AC648</string>
+						<key>dateExpires</key>
+						<string>2018/9/5</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>JS_VRRender.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>M237K3T8LX</string>
+						<key>name</key>
+						<string>China Central Television</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>FBA249F848DE04C3D37EFF0CEB61A9E7D48AC648</string>
+						<key>dateExpires</key>
+						<string>2018/9/5</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>JSlib_lvBase.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>M237K3T8LX</string>
+						<key>name</key>
+						<string>China Central Television</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>M237K3T8LX.cn.com.ctvit.AppTest</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>M237K3T8LX</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>M237K3T8LX.cn.com.ctvit.AppTest</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>CCTVFive.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>b613c1f2-1885-48a2-804c-a0714faa3e41</string>
+				<key>name</key>
+				<string>Ctvit_App_Test_Dis</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>M237K3T8LX</string>
+				<key>name</key>
+				<string>China Central Television</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
